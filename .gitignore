@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+report.csv
+sessions.csv
+formatted.json
